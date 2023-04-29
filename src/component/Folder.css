@@ -1,0 +1,15 @@
+.folder {
+  width: max-content;
+  justify-content: flex-start;
+  display: flex;
+}
+
+.file {
+  width: max-content;
+  justify-content: flex-start;
+  display: flex;
+}
+
+.tree {
+  margin-left: 10px;
+}
